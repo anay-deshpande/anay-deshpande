@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/anay-deshpande">
   <img align="left" alt="Anay Deshpande's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/real-anay">
+<a href="https://github.com/anay-deshpande">
   <img align="left" alt="Anay Deshpande's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/anay.deshpande/">
@@ -50,6 +50,4 @@
 <!---
 anay-deshpande/anay-deshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-No definition found.
-Search the web for "ing projects - 📫 feel free to reach me on twitter" »
+---
