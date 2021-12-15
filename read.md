@@ -19,7 +19,7 @@
 ###
 
 - 👀 I’m interested in finance, tech & startups
-- 🌱 I’m currently learning C++, Python and Java
+- 🌱 I’m currently learning C++, CSS, Javascript
 - 💞️ I’m looking to collaborate on Algo trading projects
 - 📫 Feel free to reach me on Twitter
 
