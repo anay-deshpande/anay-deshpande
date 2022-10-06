@@ -1,53 +1,39 @@
-### Hi there, I'm Anay Deshpande 👋
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
-###
+<h1 align="center">Hi 👋, I'm Anay</h1>  
+<h3 align="center">A passionate developer from India</h3>  
+ <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"]> 
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anay-deshpande&label=Profile%20views&color=0e75b6&style=flat" alt="anay-deshpande" /> </p>  
+  
+<p align="left"> <a href="https://twitter.com/anaydeshpande_" target="blank"><img src="https://img.shields.io/twitter/follow/anaydeshpande_?logo=twitter&style=for-the-badge" alt="anaydeshpande_" /></a> </p>  
+  
+- 🔭 I’m currently working on **WYDRN - Social Network**  
+  
+- 🌱 I’m currently learning **Python, C#**  
+  
+- 👯 I’m looking to collaborate on **Web Development Projects**  
+  
+- 💬 Ask me about **No Code**  
+  
+- 📄 Know about my experiences [example.com](example.com)  
+  
+- ⚡ Fun fact **I am also a Photographer!**  
+  
+<br><h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://twitter.com/anaydeshpande_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anaydeshpande_" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/anay-deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anay-deshpande" height="30" width="40" /></a>  
+<a href="https://instagram.com/anay.deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anay.deshpande" height="30" width="40" /></a>  
+<a href="https://www.behance.net/anaydeshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anaydeshpande" height="30" width="40" /></a>  
+</p>  
+  
+<br><h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>  
+  
 
-<a href="https://twitter.com/anaydeshpande_">
-  <img align="left" alt="Anay Deshpande's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anay-deshpande">
-  <img align="left" alt="Anay Deshpande's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/anay-deshpande">
-  <img align="left" alt="Anay Deshpande's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/anay.deshpande/">
-  <img align="left" alt="Anay Deshpande's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
+<h3 align="left">Support:</h3>  
+<p><a href="https://www.buymeacoffee.com/anay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anay" /></a></p><br><br><br>  
+  
 
-###
-
-- 👀 I’m interested in finance, tech & startups
-- 🌱 I’m currently learning C++, CSS, Javascript
-- 💞️ I’m looking to collaborate on Algo trading projects
-- 📫 Feel free to reach me on Twitter
-
-## Languages
-[![Python](https://img.shields.io/badge/Python-3.9-blue?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-![C++](https://img.shields.io/badge/C-%2B%2B-blue?&style=for-the-badge&logoColor=white)
-
-## Tools
-[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-
-##
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=anay-deshpande&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-
-##
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anay-deshpande&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
-
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anay-deshpande)](https://github.com/anay-deshpande)
-
-<!---
-anay-deshpande/anay-deshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anay-deshpande&" alt="anay-deshpande" /></p>
