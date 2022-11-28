@@ -14,7 +14,7 @@
   
 - 👯 I’m looking to collaborate on **Web Development Projects**  
   
-- 💬 Ask me about **No Code**  
+- 💬 Ask me about **No Code/ Finance/ Art**  
   
 - 📄 Know about my experiences [here](https://anay-deshpande.github.io/resume/)  
   
