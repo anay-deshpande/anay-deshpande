@@ -8,7 +8,7 @@
   
 <p align="left"> <a href="https://twitter.com/anaydeshpande_" target="blank"><img src="https://img.shields.io/twitter/follow/anaydeshpande_?logo=twitter&style=for-the-badge" alt="anaydeshpande_" /></a> </p>  
   
-- 🔭 I’m currently working on **[Vocabulary Builder CLI](https://github.com/anay-deshpande/VocabularyBuilderCLI)**  
+- 🔭 I’m currently working on **[Vocabulary Builder CLI](https://github.com/anay-deshpande/VocabCLI)**  
   
 - 🌱 I’m currently learning **Python, C#**  
   
